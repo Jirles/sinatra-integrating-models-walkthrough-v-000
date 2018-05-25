@@ -5,7 +5,7 @@ class TextAnalyzer
   
   def initialize(text)
     @text = text.downcase
-  end 
+  end
   
   
 end 
